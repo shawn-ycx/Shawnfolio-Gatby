@@ -2,7 +2,11 @@
 .cache
 node_modules
 yarn-error.log
+package-lock.json
+README.md
 
 # Build directory
 /public
 .DS_Store
+.prettierrc
+
